@@ -71,9 +71,9 @@ export function Experience() {
                   {exp.role}{" "}
                   <span className="text-gray-400">@ {exp.company}</span>
                 </h4>
-                <span className="text-sm font-mono text-gray-500 whitespace-nowrap">
+                {/* <span className="text-sm font-mono text-gray-500 whitespace-nowrap">
                   {exp.period}
-                </span>
+                </span> */}
               </div>
 
               {/* Points */}
