@@ -7,7 +7,7 @@ const EXPERIENCES = [
     id: 1,
     role: "Full Stack Developer",
     company: "ElementOne (E-commerce Project)",
-    // period: "2025 - Present",
+
     description: [
       "Built a full-stack e-commerce platform using React, Node.js, Express, and MongoDB.",
       "Implemented product search, pagination, add-to-cart functionality, and Razorpay test payment integration.",
@@ -19,7 +19,7 @@ const EXPERIENCES = [
     id: 2,
     role: " Full Stack Developer",
     company: "DigitalDukan (E-commerce Project)",
-    // period: "2025 - Present",
+
     description: [
       "Developed an e-commerce web application with product filtering, cart, and order system.",
       "Integrated PayPal payment gateway for secure transactions.",
@@ -71,9 +71,6 @@ export function Experience() {
                   {exp.role}{" "}
                   <span className="text-gray-400">@ {exp.company}</span>
                 </h4>
-                {/* <span className="text-sm font-mono text-gray-500 whitespace-nowrap">
-                  {exp.period}
-                </span> */}
               </div>
 
               {/* Points */}
