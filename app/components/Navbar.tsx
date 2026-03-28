@@ -53,7 +53,7 @@ export function Navbar() {
           <div className="h-4 w-px bg-white/20"></div>
           <div className="flex items-center gap-4">
             <a
-              href="https://github.com"
+              href="https://github.com/shubham4132"
               target="_blank"
               rel="noreferrer"
               className="text-gray-400 hover:text-white transition-colors"
