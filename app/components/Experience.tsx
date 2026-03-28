@@ -9,22 +9,34 @@ const EXPERIENCES = [
     company: "ElementOne (E-commerce Project)",
 
     description: [
-      "Built a full-stack e-commerce platform using React, Node.js, Express, and MongoDB.",
-      "Implemented product search, pagination, add-to-cart functionality, and Razorpay test payment integration.",
-      "Developed product detail pages and order management system for users and admin approval.",
+      "Built a full-stack e-commerce platform for Ayurvedic products using React, Node.js, Express, and MongoDB.",
+      "Implemented product search, pagination, add-to-cart functionality, and Razorpay payment integration.",
+      "Developed product detail pages and an order management system for users and admin approval.",
       "Used Cloudinary for image storage and Tailwind CSS for modern UI design.",
     ],
   },
   {
     id: 2,
     role: " Full Stack Developer",
+    company: "ShopEasy(E-commerce Project)",
+
+    description: [
+      "Developed an e-commerce platform for women, men, kids, and footwear products.",
+      "Implemented product filtering by category, size, and price for better user experience.",
+      "Integrated PayPal payment gateway for secure online transactions.",
+      "Built a responsive UI using React and shadcn UI components.",
+    ],
+  },
+  {
+    id: 3,
+    role: " Full Stack Developer",
     company: "DigitalDukan (E-commerce Project)",
 
     description: [
-      "Developed an e-commerce web application with product filtering, cart, and order system.",
-      "Integrated PayPal payment gateway for secure transactions.",
-      "Built responsive UI using React and shadcn UI components.",
-      "Created product detail pages and improved user experience with clean design.",
+      "Built an electronics e-commerce platform for products like TVs, mobiles, and refrigerators.",
+      "Implemented product comparison, filtering, and detailed specifications for better decision-making.",
+      "Developed cart and order management system with smooth checkout flow.",
+      "Designed responsive UI using React and optimized performance for large product data.",
     ],
   },
 ];

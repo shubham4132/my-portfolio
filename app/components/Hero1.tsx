@@ -188,8 +188,8 @@ export function Hero() {
               <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
             </a>
             <a
-              href="/images/shubhamresume.pdf"
-              download="shubhamresume.pdf"
+              href="/images/shubhamresume1.pdf"
+              download="shubhamresume1.pdf"
               className="group inline-flex items-center gap-2 px-8 py-4 bg-white/5 text-white font-semibold rounded-xl hover:bg-white/10 border border-white/10 backdrop-blur-sm transition-all hover:scale-105"
             >
               Download Resume{" "}

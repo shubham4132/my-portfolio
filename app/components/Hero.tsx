@@ -262,8 +262,8 @@ export function Hero() {
             </motion.a>
 
             <motion.a
-              href="/images/shubhamresume.pdf"
-              download="shubhamresume.pdf"
+              href="/images/shubhamresume1.pdf"
+              download="shubhamresume1.pdf"
               className="inline-flex items-center gap-2 px-7 py-3.5 bg-white/8 text-white font-semibold rounded-xl border border-white/15 backdrop-blur-sm"
               whileHover={{
                 scale: 1.05,

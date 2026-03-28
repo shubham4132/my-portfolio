@@ -9,17 +9,27 @@ const PROJECTS = [
     title: "Element One Nutrition",
     description:
       "A full-stack eCommerce platform for Ayurvedic products. Includes product search, pagination, cart system, Razorpay payment integration, and admin order management.",
-    tech: ["React", "Next.js", "Tailwind CSS", "Node.js"],
+    tech: ["Reactjs", "Nodejs", "mongoDB", "Expressjs", "Tailwind CSS"],
     github: "https://github.com/shubhamg3122134/elementOne",
     live: "https://element-one-khaki.vercel.app/",
-    image: "/images/project1.png", // apna screenshot yahan
+    image: "/images/project1.png",
   },
   {
     id: 2,
+    title: "ShopEasy",
+    description:
+      "An eCommerce web application with product filtering, cart system, order management, and PayPal payment integration. Designed for a smooth and user-friendly shopping experience.",
+    tech: ["React", "Nodejs", "mongoDB", "Expressjs", "shadcn"],
+    github: "https://github.com",
+    live: "https://ecommerce-frontend-mfuc.vercel.app/",
+    image: "/images/project3.png",
+  },
+  {
+    id: 3,
     title: "Digital Dukan",
     description:
       "An eCommerce web application with product filtering, cart system, order management, and PayPal payment integration. Designed for a smooth and user-friendly shopping experience.",
-    tech: ["React", "Nodejs", "mongoDB", "shadcn"],
+    tech: ["React", "Nodejs", "mongoDB", "Expressjs", "shadcn"],
     github: "https://github.com",
     live: "https://ecommmeredigitaldukanfrontend.onrender.com",
     image: "/images/project2.png",
