@@ -56,7 +56,7 @@ export function Projects() {
             </h3>
           </div>
           <a
-            href="https://github.com"
+            href="https://github.com/shubham4132"
             target="_blank"
             rel="noreferrer"
             className="text-white hover:text-gray-400 transition-colors flex items-center gap-2 font-medium"
