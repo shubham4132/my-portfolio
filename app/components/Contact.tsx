@@ -43,7 +43,7 @@ export function Contact() {
           </div>
           <div className="flex items-center gap-6">
             <a
-              href="https://github.com"
+              href="https://github.com/shubham4132"
               target="_blank"
               rel="noreferrer"
               className="text-gray-500 hover:text-white p-2 rounded-lg"

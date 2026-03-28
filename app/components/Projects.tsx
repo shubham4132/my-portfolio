@@ -10,7 +10,7 @@ const PROJECTS = [
     description:
       "A full-stack eCommerce platform for Ayurvedic products. Includes product search, pagination, cart system, Razorpay payment integration, and admin order management.",
     tech: ["Reactjs", "Nodejs", "mongoDB", "Expressjs", "Tailwind CSS"],
-    github: "https://github.com/shubhamg3122134/elementOne",
+    github: "https://github.com/shubham4132/elementOne",
     live: "https://element-one-khaki.vercel.app/",
     image: "/images/project1.png",
   },
@@ -20,7 +20,7 @@ const PROJECTS = [
     description:
       "An eCommerce web application with product filtering, cart system, order management, and PayPal payment integration. Designed for a smooth and user-friendly shopping experience.",
     tech: ["React", "Nodejs", "mongoDB", "Expressjs", "shadcn"],
-    github: "https://github.com",
+    github: "https://github.com/shubham4132/Ecommerce-backend",
     live: "https://ecommerce-frontend-mfuc.vercel.app/",
     image: "/images/project3.png",
   },
@@ -30,7 +30,7 @@ const PROJECTS = [
     description:
       "An eCommerce web application with product filtering, cart system, order management, and PayPal payment integration. Designed for a smooth and user-friendly shopping experience.",
     tech: ["React", "Nodejs", "mongoDB", "Expressjs", "shadcn"],
-    github: "https://github.com",
+    github: "https://github.com/shubham4132/EcommerceDigitalDukanBackend",
     live: "https://ecommmeredigitaldukanfrontend.onrender.com",
     image: "/images/project2.png",
   },
